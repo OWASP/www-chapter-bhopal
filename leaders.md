@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Anant Shrivastava](mailto://anant.shrivastava@owasp.org)
+* [Saurabh Chaudhry](mailto://saurabh.chaudhary@owasp.org)
+
+
