@@ -2,4 +2,4 @@
 * [Local Chapter](#)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Bhopal-Chapter/)
