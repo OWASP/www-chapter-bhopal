@@ -6,7 +6,7 @@
 #meetup_oembed img { border:none; margin:0; padding:0; }
 #meetup_oembed a, #meetup_oembed a:visited, #meetup_oembed a:link { color: #1B76B3; text-decoration: none; cursor: hand; cursor: pointer; }
 #meetup_oembed a:hover { color: #1B76B3; text-decoration: underline; }
-#meetup_oembed a.mu_button { font-size:14px; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;border:2px solid #A7241D;color:white!important;text-decoration:none;background-color: #CA3E47; background-image: -moz-linear-gradient(top, #ca3e47, #a8252e); background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #a8252e), color-stop(1, #ca3e47));disvplay:inline-block;padding:5px 10px; }
+#meetup_oembed a.mu_button { font-size:14px; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;color:white!important;text-decoration:none;background-color: ##1d7bd7; ;display:inline-block;padding:5px 10px; }
 #meetup_oembed a.mu_button:hover { color: #fff!important; text-decoration: none; }
 #meetup_oembed .photo { width:50px; height:50px; overflow:hidden;background:#ccc;float:left;margin:0 5px 0 0;text-align:center;padding:1px; }
 #meetup_oembed .photo img { height:50px }
