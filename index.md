@@ -21,7 +21,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:376px">
      <div style="max-height:336px;overflow:hidden">
           <h3>OWASP BHOPAL NOVEMBER MEETUP</h3>
-          <p style="margin:5px 0;font-size:16px">Sunday, Nov 10, 2019,  3:00 PM</p>
+          <p style="margin:5px 0;font-size:16px">Sunday, Nov 17, 2019,  3:00 PM</p>
           <p style="margin: 0 0 5px;"><span style="font-size:14px">ITE Bhopal</span><br />
           <span style="font-size:12px;">13, Habibganj Rd Bhopal, Ma</span></p>
 
