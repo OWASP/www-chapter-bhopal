@@ -5,7 +5,7 @@ title: OWASP bhopal
 tags: archive-tag
 level: 4
 
-region: Asia/Pacific
+region: Asia
 
 ---
 <link rel="stylesheet" href="assets/custom.css">
