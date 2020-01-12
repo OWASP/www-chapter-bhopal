@@ -12,3 +12,14 @@
 #meetup_oembed .photo img { height:50px }
 #meetup_oembed .number { font-size:18px; }
 #meetup_oembed .thing { text-transform: uppercase; color: #555; }
+
+.header-wrapper {
+	height: 60px;
+}
+.alt-logo {
+	margin: 0px auto;
+}
+
+.sidebar ul {
+	margin-top: 0px;
+}
