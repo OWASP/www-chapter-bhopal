@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP bhopal
+title: OWASP Bhopal
 tags: archive-tag
 level: 4
 
