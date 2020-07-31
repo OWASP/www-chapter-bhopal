@@ -6,6 +6,9 @@ tags: archive-tag
 level: 4
 
 region: Asia
+meetup-group: OWASP-Bhopal-Chapter
+country: India
+postal-code: 
 
 ---
 <link rel="stylesheet" href="assets/custom.css">
