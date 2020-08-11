@@ -1,5 +1,5 @@
 ### Leaders
 
-* [Saurabh Chaudhry](mailto://saurabh.chaudhary@owasp.org)
+* [Saurabh Chaudhary](mailto:saurabh.chaudhary@owasp/org)
 
 
