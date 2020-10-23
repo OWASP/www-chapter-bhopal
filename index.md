@@ -28,15 +28,15 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
           <p style="margin:5px 0;font-size:16px">Sunday, October 25, 2020,  04:00 PM</p>
           <p style="margin: 0 0 5px;"><span style="font-size:14px">Online</span><br />
 <span style="font-size:12px;"> Ma</span></p>
-          <p style="line-height:16px">As Owasp Bhopal Community we have come up with Oct-2020 Monthly meet for the Community.
+          <p style="line-height:16px">As Owasp Bhopal Community we have come up with Oct-2020 Monthly meet for the Community.<br>
 
-There are two sessions proposed for this virtual OWASP meetup-
+There are two sessions proposed for this virtual OWASP meetup-<br>
 
-1. API Testing By Vedant Jain (1600-1700 IST)
+1. API Testing By Vedant Jain (1600-1700 IST)<br>
 
-2. Dom based XXS by Divyanshu Diwakar (1700-1800)
+2. Dom based XXS by Divyanshu Diwakar (1700-1800)<br>
 
-Post the meetup we will have a Q&A session regarding talks. Also, we are going to have an open discussion on making this OWASP chapter Bigger & Better
+Post the meetup we will have a Q&A session regarding talks. Also, we are going to have an open discussion on making this OWASP chapter Bigger & Better<br>
 
 It will be a fully virtual meetup and the details Regarding The virtual platform will be communicated on the day of the meetup.<br /> 
             <br /></p>
