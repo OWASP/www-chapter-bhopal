@@ -27,7 +27,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
           <h3> OWASP BHOPAL MEETUP </h3>
           <p style="margin:5px 0;font-size:16px">Sunday, October 25, 2020,  04:00 PM</p>
           <p style="margin: 0 0 5px;"><span style="font-size:14px">Online</span><br />
-<span style="font-size:12px;"> Ma</span></p>
+<span style="font-size:12px;"> </span></p>
           <p style="line-height:16px">As Owasp Bhopal Community we have come up with NOV-2020 Monthly meet for the Community.<br>
 
 There are two sessions proposed for this virtual OWASP meetup-<br><br>
