@@ -25,18 +25,16 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
           <h3> OWASP BHOPAL MEETUP </h3>
-          <p style="margin:5px 0;font-size:16px">Sunday, November 08, 2020,  04:00 PM</p>
+          <p style="margin:5px 0;font-size:16px">Saturday, April 10, 2021,  02:00 PM</p>
           <p style="margin: 0 0 5px;"><span style="font-size:14px">Online</span><br />
 <span style="font-size:12px;"> </span></p>
-          <p style="line-height:16px">As Owasp Bhopal Community we have come up with NOV-2020 Monthly meet for the Community.<br>
+          <p style="line-height:16px">As Owasp Bhopal Community we have come up with Monthly meet for the Community.<br>
 
-There are two sessions proposed for this virtual OWASP meetup-<br><br>
+The session proposed for this virtual OWASP meetup-<br><br>
 
-1. API Testing By Vedant Jain (1600-1700 IST)<br>
+1. 1. Approach Towards Mobile App Pentesting - Kunwar Atul (1400-1600 IST) <br>
 
-2. Dom based XXS by Divyanshu Diwakar (1700-1800)<br><br>
-
-Post the meetup we will have a Q&A session regarding talks. Also, we are going to have an open discussion on making this OWASP chapter Bigger & Better<br>
+<br>
 
 It will be a fully virtual meetup and the details Regarding The virtual platform will be communicated on the day of the meetup.<br /> 
             <br /></p>
