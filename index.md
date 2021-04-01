@@ -32,7 +32,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 
 The session proposed for this virtual OWASP meetup-<br><br>
 
-1.Approach Towards Mobile App Pentesting - Kunwar Atul (1400-1600 IST) <br>
+1. Approach Towards Mobile App Pentesting - Kunwar Atul (1400-1600 IST) <br>
 
 <br>
 
