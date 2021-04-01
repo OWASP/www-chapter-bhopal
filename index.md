@@ -19,7 +19,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 
 [Meetings are organized via meetup](https://meetup.com/OWASP-Bhopal-Chapter/)
 
-## Next Meeting: 08 November 2020
+## Next Meeting: 10 April 2021
 
 
 <div id="meetup_oembed" style="height:334px">
