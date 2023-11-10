@@ -8,7 +8,7 @@ level: 4
 region: Asia
 meetup-group: OWASP-Bhopal-Chapter
 country: India
-postal-code: 
+postal-code: 455001
 
 ---
 <link rel="stylesheet" href="assets/custom.css">
@@ -19,25 +19,16 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 
 [Meetings are organized via meetup](https://meetup.com/OWASP-Bhopal-Chapter/)
 
-## Next Meeting: 10 April 2021
+## Next Meeting: To be Announced
 
 
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
-          <h3> OWASP BHOPAL MEETUP </h3>
-          <p style="margin:5px 0;font-size:16px">Saturday, April 10, 2021,  02:00 PM</p>
-          <p style="margin: 0 0 5px;"><span style="font-size:14px">Online</span><br />
+          <h3> Introduction to OWASP: OWASP Bhopal </h3>
+          <p style="margin:5px 0;font-size:16px">To be Announced</p>
+          <p style="margin: 0 0 5px;"><span style="font-size:14px">In-person</span><br />
 <span style="font-size:12px;"> </span></p>
-          <p style="line-height:16px">As Owasp Bhopal Community we have come up with Monthly meet for the Community.<br>
-
-The session proposed for this virtual OWASP meetup-<br><br>
-
-1. Approach Towards Mobile App Pentesting - Kunwar Atul (1400-1600 IST) <br>
-
-<br>
-
-It will be a fully virtual meetup and the details Regarding The virtual platform will be communicated on the day of the meetup.<br /> 
-            <br /></p>
+<!--           <p style="line-height:16px"></p> -->
      </div>
-     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
+<!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> -->
 </div>
