@@ -35,9 +35,10 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
           </div> -->
  
           <p style="line-height:16px"><h2 class="text--sectionTitle text--bold padding--bottom"><span>Details</span></h2><div class="event-description runningText"><p>This will be the first meet of OWASP Bhopal. The agenda is simple to introduce OWASP to the community in Bhopal.<br/><br/>We will be talking about:<br/>1. What is OWASP<br/>2. What are the areas in which OWASP works<br/>3. How you can benefit from OWASP<br/>4. How you can contribute to OWASP (effort or money)<br/><br/>Organizers will then like to take feedback about how to take OWASP Bhopal Chapter forward.</p></div>
-</p>     </div>
+</p>     
+</div>
      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/264710599/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
 <!--           <p style="line-height:16px"></p> -->
-     </div>
+<!--      </div> -->
 <!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> -->
 </div>
