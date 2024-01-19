@@ -25,7 +25,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
            <h3>OWASP Meetup: Introduction to OWASP</h3>
-          <p style="margin:5px 0;font-size:16px">4th Feb, 2024 <br> Meetup Link to Register: [Click here]([Click](https://www.meetup.com/owasp-bhopal-chapter/events/298658258/)) </p>
+          <p style="margin:5px 0;font-size:16px">4th Feb, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/298658258/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <!--           <p style="margin: 0 0 5px;"><span style="font-size:14px">ITE Bhopal</span><br />
             <span style="font-size:12px;">13, Habibganj Rd Bhopal, IN</span></p> 
 
