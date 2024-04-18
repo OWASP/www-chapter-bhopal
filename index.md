@@ -28,26 +28,26 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
           <p style="margin:5px 0;font-size:16px">28th April, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/298658258/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> **Description:** </h4>         
 <p>
+     <br>
 Welcome to "Web Security 101: Safeguarding Your Digital Footprint," a comprehensive beginner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
-
+<br><br>
 In today's digital age, our online presence is more significant than ever. From personal information to financial data, we entrust a plethora of sensitive details to the web. However, with the increasing prevalence of cyber threats and malicious actors, it's crucial to fortify our defenses and ensure the safety of our digital footprint.
-
+<br><br>
 Join us for an enlightening journey into the realm of web security, where you'll learn:
+<br>
+- Foundations of Web Security: Understand the basic concepts and principles of web security, including common vulnerabilities and attack vectors.
 
-- **Foundations of Web Security:** Understand the basic concepts and principles of web security, including common vulnerabilities and attack vectors.
-  
-- **Protecting Your Digital Assets:** Discover practical tips and best practices for safeguarding your personal and professional information online.
+- Protecting Your Digital Assets: Discover practical tips and best practices for safeguarding your personal and professional information online.
+- Securing Your Devices and Networks: Learn how to secure your devices, networks, and online accounts against cyber threats, malware, and phishing attacks.
 
-- **Securing Your Devices and Networks:** Learn how to secure your devices, networks, and online accounts against cyber threats, malware, and phishing attacks.
+- Navigating the Cyber Landscape: Gain insights into the evolving cybersecurity landscape and emerging trends, empowering you to stay ahead of potential threats.
 
-- **Navigating the Cyber Landscape:** Gain insights into the evolving cybersecurity landscape and emerging trends, empowering you to stay ahead of potential threats.
+- Interactive Workshops and Demos: Engage in hands-on workshops and live demonstrations that reinforce your learning and provide practical guidance for implementing security measures effectively.
 
-- **Interactive Workshops and Demos:** Engage in hands-on workshops and live demonstrations that reinforce your learning and provide practical guidance for implementing security measures effectively.
-
-- **Community Engagement:** Connect with like-minded individuals, share experiences, and collaborate on strategies for enhancing web security awareness and resilience.
-
+- Community Engagement: Connect with like-minded individuals, share experiences, and collaborate on strategies for enhancing web security awareness and resilience.
+<br> <br>
 Whether you're a student, professional, or simply a concerned internet user, "Web Security 101: Safeguarding Your Digital Footprint" offers a welcoming environment where everyone can learn and thrive.
-
+<br> <br>
 Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
 
 **Date:** 28th April, 2024
