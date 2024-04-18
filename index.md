@@ -25,7 +25,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
            <h3>Web Security 101: Safeguarding Your Digital Footprint</h3>
-          <p style="margin:5px 0;font-size:16px">28th April, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/298658258/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+          <p style="margin:5px 0;font-size:16px">28th April, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/300502194/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> **Description:** </h4>         
 <p>
      <br>
@@ -52,7 +52,7 @@ Don't miss this opportunity to take control of your online security and protect 
 
 **Date:** 28th April, 2024
 
-**Location:** Aditya Residency, Bhopal
+**Location:** Hotel Aditya Residency, Bhopal
 
 **Time:** 10:30 AM
 
@@ -70,7 +70,7 @@ Feel free to customize the event details to match the specifics of your event!</
           <p style="line-height:16px"><h2 class="text--sectionTitle text--bold padding--bottom"><span>Details</span></h2><div class="event-description runningText"><p>This will be the first meet of OWASP Bhopal. The agenda is simple to introduce OWASP to the community in Bhopal.<br/><br/>We will be talking about:<br/>1. What is OWASP<br/>2. What are the areas in which OWASP works<br/>3. How you can benefit from OWASP<br/>4. How you can contribute to OWASP (effort or money)<br/><br/>Organizers will then like to take feedback about how to take OWASP Bhopal Chapter forward.</p></div>
 </p>     
 </div>
-     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/264710599/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
+     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-bhopal-chapter/events/300502194/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
 <!--           <p style="line-height:16px"></p> -->
 <!--      </div> -->
 <!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> -->
