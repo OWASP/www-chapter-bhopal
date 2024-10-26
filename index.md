@@ -19,27 +19,21 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 
 [Meetings are organized via meetup](https://meetup.com/OWASP-Bhopal-Chapter/)
 
-## Next Meeting: 5th Oct, 2024
+## Next Meeting: 10th Nov, 2024
 
 
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
-           <h3>ML Nexus with Capture the Flag (CTF)</h3>
-          <p style="margin:5px 0;font-size:16px">5th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/303600320/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+           <h3>Let's Talk ML Security</h3>
+          <p style="margin:5px 0;font-size:16px">10th Nov, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/304220240/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> Description: </h4>         
 <p>
      <br>
-Join us at the OWASP Bhopal Chapter for an interactive workshop focused on Web Application Security Best Practices. Dive deep into topics like Code Review, Penetration Testing, and OWASP's top 10 vulnerabilities. Our guest speakers will share insights on the latest trends in Software Security, providing practical tips to enhance your Cybersecurity measures.
-<br> <br>
-We'll have Capture The Flag (CTF) Competition in the second half.
-<br> <br>
-This event is ideal for professionals interested in Application Security, Network Security, and Software Development. Whether you are a beginner or an expert, this workshop will equip you with the tools and knowledge to safeguard your applications effectively. Don't miss this opportunity to stay ahead in the ever-evolving landscape of Information Security.
-<br> <br>
-Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
+Dive into the essentials of securing machine learning systems! This event explores key challenges in ML security, including model vulnerabilities, adversarial attacks, and best practices for robust protection. Perfect for developers, data scientists, and security pros, this session equips you with practical insights to safeguard ML applications against evolving threats.
 
-**Date:** 5th Oct, 2024
+**Date:** 10th Nov, 2024
 
-**Location:** LNCTE, Bhopal
+**Location:** Hotel Bentree, Bhopal
 
 **Time:** 11:00 AM
 
@@ -57,7 +51,7 @@ Feel free to customize the event details to match the specifics of your event!</
           <p style="line-height:16px"><h2 class="text--sectionTitle text--bold padding--bottom"><span>Details</span></h2><div class="event-description runningText"><p>This will be the first meet of OWASP Bhopal. The agenda is simple to introduce OWASP to the community in Bhopal.<br/><br/>We will be talking about:<br/>1. What is OWASP<br/>2. What are the areas in which OWASP works<br/>3. How you can benefit from OWASP<br/>4. How you can contribute to OWASP (effort or money)<br/><br/>Organizers will then like to take feedback about how to take OWASP Bhopal Chapter forward.</p></div>
 </p>     
 </div>
-     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-bhopal-chapter/events/303600320/" target="_blank" class="mu_button"><strong>Check out this on Meetup &rarr;</strong></a></p>
+     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-bhopal-chapter/events/304220240/" target="_blank" class="mu_button"><strong>Check out this on Meetup &rarr;</strong></a></p>
 <!--           <p style="line-height:16px"></p> -->
 <!--      </div> -->
 <!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> -->
