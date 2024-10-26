@@ -12,6 +12,32 @@ tags: archive-tag
 
 This page will list all the older meeting archives
 
+
+## Meeting: 05 Oct 2024
+
+<div id="meetup_oembed" style="height:334px">
+     <div style="max-height:294px;overflow:hidden">
+           <h3>ML Nexus with Capture the Flag (CTF)</h3>
+          <p style="margin:5px 0;font-size:16px">5th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/303600320/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+<h4> Description: </h4>         
+<p>
+     <br>
+Join us at the OWASP Bhopal Chapter for an interactive workshop focused on Web Application Security Best Practices. Dive deep into topics like Code Review, Penetration Testing, and OWASP's top 10 vulnerabilities. Our guest speakers will share insights on the latest trends in Software Security, providing practical tips to enhance your Cybersecurity measures.
+<br> <br>
+We'll have Capture The Flag (CTF) Competition in the second half.
+<br> <br>
+This event is ideal for professionals interested in Application Security, Network Security, and Software Development. Whether you are a beginner or an expert, this workshop will equip you with the tools and knowledge to safeguard your applications effectively. Don't miss this opportunity to stay ahead in the ever-evolving landscape of Information Security.
+<br> <br>
+Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
+
+**Date:** 5th Oct, 2024
+
+**Location:** LNCTE, Bhopal
+
+**Time:** 11:00 AM
+
+
+
 ## Meeting: 17 November 2019
 
 <div id="meetup_oembed" style="height:376px">
