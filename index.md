@@ -31,11 +31,11 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
      <br>
 Dive into the essentials of securing machine learning systems! This event explores key challenges in ML security, including model vulnerabilities, adversarial attacks, and best practices for robust protection. Perfect for developers, data scientists, and security pros, this session equips you with practical insights to safeguard ML applications against evolving threats.
 
-**Date:** 10th Nov, 2024
+Date: 10th Nov, 2024
 
-**Location:** Hotel Bentree, Bhopal
+Location: Hotel Bentree, Bhopal
 
-**Time:** 11:00 AM
+Time: 11:00 AM
 
 ---
 
