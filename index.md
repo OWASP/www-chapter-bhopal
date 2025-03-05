@@ -60,5 +60,5 @@ Time: 12:00 PM
      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-bhopal-chapter/events/306398588/" target="_blank" class="mu_button"><strong>Check out this on Meetup &rarr;</strong></a></p>
 <!--           <p style="line-height:16px"></p> -->
 <!--      </div> -->
-<!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> -->
-</div>
+<!--      <p style="margin:10px 0 0;"><a href="https://www.meetup.com/OWASP-Bhopal-Chapter/events/277296129/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p> 
+</div> -->
