@@ -25,7 +25,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
            <h3>OWASP Bhopal CTF: Hack, Learn, Secure!</h3>
-          <p style="margin:5px 0;font-size:16px">10th Nov, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/306398588/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+          <p style="margin:5px 0;font-size:16px">9th March, 2025 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-bhopal-chapter/events/306398588/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> Description: </h4>         
 <p>
      <br>
