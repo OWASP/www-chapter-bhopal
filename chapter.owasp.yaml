@@ -1,0 +1,32 @@
+community:
+  - name: chapter-bhopal
+    platform: slack
+    url: https://owasp.slack.com/archives/C01KH9SL37G
+leaders:
+  - name: Anurag Mishra
+    email: anurag.mishra@owasp.org
+    github: anuragayumishra
+  - name: Rishabh Gupta
+    email: rishabh.gupta@owasp.org
+  - name: Ankur Gupta
+    email: ankur.gupta1@owasp.org
+    github: ankurg132
+location:
+  country: India
+  country_code: IN
+  region: Madhya Pradesh
+  city: Bhopal
+  postal_code: '455001'
+  latitude: 23.235387850000002
+  longitude: 77.41424547065687
+meetup_group: OWASP-Bhopal-Chapter
+name: OWASP Bhopal
+repositories:
+  - name: www-chapter-bhopal
+    url: https://github.com/OWASP/www-chapter-bhopal
+    description: OWASP Bhopal Website
+tags:
+  - archive-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bhopal
