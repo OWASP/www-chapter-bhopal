@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bhopal
-tags: archive-tag
+tags: archive-tag, meetings-tag
 level: 4
 
 region: Asia
